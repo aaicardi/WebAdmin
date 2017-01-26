@@ -1,0 +1,35 @@
+﻿/***********************************************************
+// Author           : Ing. Alex Aicardi
+// Created          : 26/08/2016
+// Description      : Login css
+// Last Modified By : 
+// Last Modified On : 
+// Copyright © 2016 Barbersoft. All right reserved 
+//************************************************************/
+
+body {
+}
+
+.loading{
+    position: fixed;
+    left: 36%; 
+    top: 24%; 
+    display:none;
+   }
+
+
+#img_Loading{
+    width:65%;
+    height:65%;
+}
+
+
+#img_login{  
+    width: 210px;
+    height: 100px;
+    padding-left: 35%;
+   }
+
+.login{  
+
+}

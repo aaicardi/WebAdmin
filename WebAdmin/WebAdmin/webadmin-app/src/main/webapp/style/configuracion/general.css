@@ -1,0 +1,19 @@
+﻿body {
+}
+
+.textInput{
+    width: 100%;
+ }
+
+ .CampoRequerido {
+            color: red;
+        }
+
+ .textarea{
+     width: 100%; 
+     height: 100px;
+ }
+
+ .comboFactura{
+          width: 100%; 
+ }

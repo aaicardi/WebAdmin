@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAdmin", "WebAdmin\WebAdmin.csproj", "{F2B68C27-A261-4D46-80D4-504E3B1D6D1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2B68C27-A261-4D46-80D4-504E3B1D6D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B68C27-A261-4D46-80D4-504E3B1D6D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B68C27-A261-4D46-80D4-504E3B1D6D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B68C27-A261-4D46-80D4-504E3B1D6D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://aaicardi.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WebAdmin\\WebAdmin.csproj
+		SccProjectName1 = WebAdmin
+		SccLocalPath1 = WebAdmin
+	EndGlobalSection
+EndGlobal
